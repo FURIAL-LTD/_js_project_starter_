@@ -3,9 +3,11 @@
 * {
     box-sizing: border-box;
 }
+
 h1 {
     color: red;
 }
+
 body {
     font-family: 'Roboto', sans-serif;
     display: flex;
